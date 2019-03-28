@@ -1,5 +1,8 @@
 # little_testing_translator
 
+## Download
+   ```git clone https://github.com/tony006469/little_testing_translator.git```
+ 
 ## Installation
    ```pip install googletrans```
    
