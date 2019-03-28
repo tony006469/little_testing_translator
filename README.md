@@ -12,6 +12,7 @@
  
 ## Usage 
    `python3 test.py`
+    
     Enter the file path : the path of image (like `/home/tony/Desktop/little_testing_translator/sample1.png`)
     
    
