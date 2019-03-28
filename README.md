@@ -2,7 +2,9 @@
 
 ## Installation
    ```pip install googletrans```
+   
    ```pip install pytesseract```
+   
    ```pip install opencv-python```
  
 ## Usage 
